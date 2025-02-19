@@ -108,7 +108,7 @@ Bug Report Template:
 
 🔗 Resources
 
-Testing Tools: Manual execution using Excel/Google Sheets or TestRail.
+Testing Tools: Manual execution using Excel/Google Sheets .
 
 Bug Tracking: JIRA
 
