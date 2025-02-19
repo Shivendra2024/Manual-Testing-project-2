@@ -5,67 +5,67 @@ This project provides a comprehensive collection of test scenarios and test case
 
 🛠️ Modules Covered
 
-Trip Management
+* Trip Management
 
-Create, update, and delete trips
+* Create, update, and delete trips
 
-Assign drivers and vehicles to trips
+* Assign drivers and vehicles to trips
+  
+* Track trip status and completion
 
-Track trip status and completion
+* Driver Management
 
-Driver Management
+* Add, update, and remove drivers
 
-Add, update, and remove drivers
+* Verify driver license and certifications
 
-Verify driver license and certifications
+* Track driver availability and performance
 
-Track driver availability and performance
+* Vehicle Management
 
-Vehicle Management
+* Add, update, and remove vehicles
 
-Add, update, and remove vehicles
+* Schedule vehicle maintenance
 
-Schedule vehicle maintenance
+* Monitor vehicle usage and availability
 
-Monitor vehicle usage and availability
+* Customer Management
 
-Customer Management
+* Register and manage customers
 
-Register and manage customers
+* Assign trips to customers
 
-Assign trips to customers
+* Maintain customer feedback and complaints
 
-Maintain customer feedback and complaints
+* Expense Management
 
-Expense Management
+* Record fuel, maintenance, and operational expenses
 
-Record fuel, maintenance, and operational expenses
+* Generate expense reports
 
-Generate expense reports
+* Ensure budget compliance
 
-Ensure budget compliance
+* Reports & Analytics
 
-Reports & Analytics
+* Generate trip, vehicle, and driver performance reports
 
-Generate trip, vehicle, and driver performance reports
+* Analyze fleet efficiency and cost-effectiveness
 
-Analyze fleet efficiency and cost-effectiveness
-
-Export reports in various formats
+* Export reports in various formats
 
 ✅ Test Strategy
 
-Functional Testing: Verify core functionalities of each module.
+Functional Testing:  Verify core functionalities of each module.
 
-UI/UX Testing: Ensure a user-friendly interface.
+UI/UX Testing:       Ensure a user-friendly interface.
 
 Integration Testing: Check the interaction between modules.
 
-Regression Testing: Ensure new updates do not break existing features.
+Regression Testing:  Ensure new updates do not break existing features.
 
-Usability Testing: Verify ease of use for different user roles.
+Usability Testing:   Verify ease of use for different user roles.
 
-Security Testing: Ensure data protection and access control.
+Security Testing:    Ensure data protection and access control.
 
 📝 Sample Test Case
 
