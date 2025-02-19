@@ -112,7 +112,7 @@ Testing Tools: Manual execution using Excel/Google Sheets or TestRail.
 
 Bug Tracking: JIRA
 
-Collaboration: Slack, Microsoft Teams, or Email.
+Collaboration: Slack, Email.
 
 📌 Conclusion
 
